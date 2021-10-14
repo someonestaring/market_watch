@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450730067988",
+    "project_id": "market-watch-70a56",
+    "storage_bucket": "market-watch-70a56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450730067988:android:3ff27a87d5db219cf23f01",
+        "android_client_info": {
+          "package_name": "com.someonestaring.market_watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450730067988-p6u0nc2lq9b7mmtul98gcq7a9n5a078s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByMrY5YH7kf9ZSn-Zh8nVzhhvasAcPlMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450730067988-p6u0nc2lq9b7mmtul98gcq7a9n5a078s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

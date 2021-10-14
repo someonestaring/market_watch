@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">
+		Market Watch
+	</string>
+	<string name="facebook_app_id">
+		689685005338084
+	</string>
+	<string name="fb_login_protocol_scheme">
+		fb689685005338084
+	</string>
+</resources>
