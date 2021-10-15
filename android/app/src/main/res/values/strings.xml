@@ -9,4 +9,5 @@
 	<string name="fb_login_protocol_scheme">
 		fb689685005338084
 	</string>
+	<string name="apiKey"></string>
 </resources>

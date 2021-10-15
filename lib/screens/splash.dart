@@ -42,6 +42,9 @@ class _SplashState extends State<Splash> {
               "lastActive": DateTime.now(),
               'username': data['username'],
             });
+            res.reference.update({
+              'lastActive': DateTime.now(),
+            });
             return;
           } else {
             res.reference.update({

@@ -1,4 +1,6 @@
+import 'package:market_watch/screens/auth/ext/alerts.dart';
 import 'package:market_watch/screens/auth/ext/home.dart';
+import 'package:market_watch/screens/auth/ext/saved.dart';
 import 'package:market_watch/state/app_state.dart';
 import 'package:flutter/material.dart';
 
@@ -17,6 +19,8 @@ class Utility extends StatelessWidget {
           controller: _pageCont,
           children: const [
             HomeScreen(),
+            SavedList(),
+            AlertsList(),
           ],
         ),
       ),
